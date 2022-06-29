@@ -2,6 +2,7 @@
 
 <!--
 **nenidevelop/nenidevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Helping Clients to achieve their goal - Web3 | Solidity | Reactjs :
 
@@ -16,4 +17,3 @@ NFT : https://www.safezone.game/
 Staker : https://kactusfinance.netlify.app/
 
 📫 How to reach me: ... https://www.linkedin.com/in/patriko-costa-38752971/
--->
