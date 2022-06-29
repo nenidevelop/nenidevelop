@@ -3,14 +3,17 @@
 <!--
 **nenidevelop/nenidevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Helping Clients to achieve their goal - Web3 | Solidity | Reactjs :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on ... Multiple blockchain staker : BSC, CRO, AVAX
+📝 Here my skills set :
+- Smart contract developement using Solidity.
+- Proficiency in a modern programming language such Javascript/Typescript with frameworks like ReactJs, moralis and web3.
+- I can code on ETH, BNB, CRO, AVAX
+
+⚡ Here some projects that I develop : 
+NFT : https://www.safezone.game/
+Staker : https://kactusfinance.netlify.app/
+
+📫 How to reach me: ... https://www.linkedin.com/in/patriko-costa-38752971/
 -->
