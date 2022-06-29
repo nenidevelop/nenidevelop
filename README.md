@@ -22,4 +22,4 @@ NFT : https://www.safezone.game/
 
 Staker : https://kactusfinance.netlify.app/
 
-📫 How to reach me: ... https://www.linkedin.com/in/patriko-costa-38752971/
+📫 How to reach me: https://www.linkedin.com/in/patriko-costa-38752971/
