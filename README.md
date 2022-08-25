@@ -22,4 +22,6 @@ NFT : https://www.safezone.game/
 
 Staker : https://kactusfinance.netlify.app/
 
+Bot Twitter : https://twitter.com/BuyTheDipBot
+
 📫 How to reach me: https://www.linkedin.com/in/patriko-costa-38752971/
