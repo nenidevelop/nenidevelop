@@ -6,7 +6,7 @@
 
 Helping Clients to achieve their goal - Web3 | Solidity | Reactjs :
 
-🔭 I’m currently working on ... Multiple blockchain staker : BSC, CRO, AVAX
+🔭 I’m currently working on ... Multiple blockchain staker : EVM chains (BSC, ETH)
 
 📚 Here my skills set :
 - Smart contract developement using Solidity.
