@@ -9,6 +9,7 @@ Helping Clients to achieve their goal - Web3 | Solidity | Reactjs :
 🔭 I’m currently working on ... Multiple blockchain staker : EVM chains (BSC, ETH)
 
 📚 Here my skills set :
+- React front developer
 - Smart contract developement using Solidity.
 - Proficiency in a modern programming language such Javascript/Typescript with frameworks like ReactJs, moralis and web3.
 - I can code on ETH, BNB, CRO, AVAX
