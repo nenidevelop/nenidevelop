@@ -18,7 +18,7 @@ Helping Clients to achieve their goal - Web3 | Python | Reactjs :
 
 ⚡ Here some projects that I develop : 
 
-Crypto manager : https://www.cryptolly.com
+Crypto manager : https://www.cryptolly.app
 
 📫 How to reach me: [X](https://x.com/patrikodevelop)
 
