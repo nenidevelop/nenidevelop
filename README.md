@@ -4,7 +4,7 @@
 **nenidevelop/nenidevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Helping Clients to achieve their goal - Web3 | Solidity | Reactjs :
+Helping Clients to achieve their goal - Web3 | Python | Reactjs :
 
 🔭 I’m currently working on ... Multiple blockchain staker : EVM chains (BSC, ETH)
 
