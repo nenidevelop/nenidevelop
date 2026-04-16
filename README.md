@@ -6,7 +6,7 @@
 
 Helping Clients to achieve their goal - Web3 | Python | Reactjs :
 
-🔭 I’m currently working on ... Multiple blockchain staker : EVM chains (BSC, ETH)
+🔭 I’m currently working on ... Multiple blockchain staker : SaaS, Mobile App
 
 📚 Here my skills set :
 - Frontend developer : ReactJs
